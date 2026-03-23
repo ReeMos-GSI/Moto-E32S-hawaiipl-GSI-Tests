@@ -1,6 +1,9 @@
 ## Moto-E32S-hawaiipl-GSI-Tests
 This Repository Of Mine is For Testing Different GSIs and Report There Major Problem, Sorry If I miss Anything
 
+## Notice Page
+*I Am very Sorry, I will Stop Testing Android 14 to 16 GSIs including Android 14, My Minimal Tests Take Atleast 4 hours including the flash process and fixing the errors in the flash process and also trying to find a solution to problems, I want some Rest during the day and i cannot achieve that if i test everyday.
+
 ## Quick Links
 - [Derpfest 16](#derpfest-16)
 - [Voltage OS 16](#voltage-os-16)
