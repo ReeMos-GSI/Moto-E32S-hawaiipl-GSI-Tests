@@ -2,14 +2,16 @@
 This Repository Of Mine is For Testing Different GSIs and Report There Major Problem, Sorry If I miss Anything
 
 ## Notice Page
-*I Am very Sorry, I will Stop Testing Android 14 to 16 GSIs including Android 14, My Minimal Tests Take Atleast 4 hours including the flash process and fixing the errors in the flash process and also trying to find a solution to problems, I want some Rest during the day and i cannot achieve that if i test everyday.
+I Am very Sorry, I will Stop Testing Android 14 to 16 GSIs including Android 14, My Minimal Tests Take Atleast 4 hours including the flash process and fixing the errors in the flash process and also trying to find a solution to problems, I want some Rest during the day and i cannot achieve that if i test everyday.
 
 ## Quick Links
 - [Derpfest 16](#derpfest-16)
 - [Voltage OS 16](#voltage-os-16)
 - [Evolution X 9.9.3](#evolution-x-9.9.3)
 - [Pixel Experience Plus 13](#pixel-experience-plus-13)
-- 
+
+## Next GSI to Be Tested:-
+
 
 ## Derpfest 16
 *the Wifi Does Not Work, This GSI Has A Problem With The Captive Portal, It Opens Everytime We Open A App otherwise We Get Internet Access shown in the wifi Settings And We Pass the Ping Test(google.com). Please Wait For The Testing To Finish. Current Status: Cancelled*
